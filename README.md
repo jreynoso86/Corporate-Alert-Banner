@@ -11,6 +11,14 @@ Both components share the **`CorporateAlertBanner`** SharePoint list on the sour
 
 ---
 
+<img width="1898" height="445" alt="image" src="https://github.com/user-attachments/assets/02429672-00da-4194-b822-850c674d07fa" />
+
+<img width="1893" height="380" alt="image" src="https://github.com/user-attachments/assets/0a8205d3-437e-478a-8d85-b7fc10a92542" />
+
+<img width="1910" height="538" alt="image" src="https://github.com/user-attachments/assets/ad30f43d-cfd0-4497-9ffb-e10da6004981" />
+
+
+
 ## 1. One-time setup on the source site
 
 Before the solution is useful, create the central list on the **root site** (`/`) of the tenant.
